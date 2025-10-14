@@ -22,9 +22,7 @@ https://github.com/Cancro29/NETHERCAP/releases/tag/V.1.9.0-bw16
 
 # Download
 ## ESP8266
-https://github.com/Cancro29/NETHERCAP/releases/tag/V.3.8.0-esp8266
-## ESP-32
-https://github.com/Cancro29/NETHERCAP/releases/tag/V.1.0.1-esp32
+https://github.com/Cancro29/NETHERCAP/releases/tag/V.3.8.1-esp8266
 
 ## About this Project
 This firmware is a heavily-modified version of M1z23R's ESP8266-EvilTwin v2 with Spacehuhn's Deauther CSS.
